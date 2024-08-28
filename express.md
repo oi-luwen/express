@@ -1,4 +1,3 @@
-```javascript
 Certainly! I'll simplify the setup by directly embedding the message into the HTML file and keeping the Express.js code minimal.
 
 ### 1. Set Up the Project
@@ -99,4 +98,3 @@ Open your browser and navigate to `http://localhost:3000`. You should see the me
 ### 5. Conclusion
 
 This simplified setup directly embeds the message into the HTML response within the Express.js code. The message is still managed via environment variables using `dotenv`, but without the need for serving static files or creating additional directories.
-```
